@@ -1,70 +1,70 @@
 # -Predict-the-Cancer-Mortality-rate
-Data Dictionary
+# Data Dictionary
 
-TARGET_deathRate: Dependent variable. Mean per capita (100,000) cancer mortalities
+1. TARGET_deathRate: Dependent variable. Mean per capita (100,000) cancer mortalities
 
-avgAnnCount: Mean number of reported cases of cancer diagnosed annually
+2. avgAnnCount: Mean number of reported cases of cancer diagnosed annually
 
-avgDeathsPerYear: Mean number of reported mortalities due to cancer
+3. avgDeathsPerYear: Mean number of reported mortalities due to cancer
 
-incidenceRate: Mean per capita (100,000) cancer diagoses
+4. incidenceRate: Mean per capita (100,000) cancer diagoses
 
-medianIncome: Median income per county
+5. medianIncome: Median income per county
 
-popEst2015: Population of county
+6. popEst2015: Population of county
 
-povertyPercent: Percent of populace in poverty
+7. povertyPercent: Percent of populace in poverty
 
-studyPerCap: Per capita number of cancer-related clinical trials per county
+8. studyPerCap: Per capita number of cancer-related clinical trials per county
 
-binnedInc: Median income per capita binned by decile
+9. binnedInc: Median income per capita binned by decile
 
-MedianAge: Median age of county residents
+10. MedianAge: Median age of county residents
 
-MedianAgeMale: Median age of male county residents
+11. MedianAgeMale: Median age of male county residents
 
-MedianAgeFemale: Median age of female county residents
+12. MedianAgeFemale: Median age of female county residents
 
-Geography: County name
+13. Geography: County name
 
-AvgHouseholdSize: Mean household size of county
+14. AvgHouseholdSize: Mean household size of county
 
-PercentMarried: Percent of county residents who are married
+15. PercentMarried: Percent of county residents who are married
 
-PctNoHS18_24: Percent of county residents ages 18-24 highest education attained: less than high school
+16. PctNoHS18_24: Percent of county residents ages 18-24 highest education attained: less than high school
 
-PctHS18_24: Percent of county residents ages 18-24 highest education attained: high school diploma
+17. PctHS18_24: Percent of county residents ages 18-24 highest education attained: high school diploma
 
-PctSomeCol18_24: Percent of county residents ages 18-24 highest education attained: some college
+18. PctSomeCol18_24: Percent of county residents ages 18-24 highest education attained: some college
 
-PctBachDeg18_24: Percent of county residents ages 18-24 highest education attained: bachelor's degree
+19. PctBachDeg18_24: Percent of county residents ages 18-24 highest education attained: bachelor's degree
 
-PctHS25_Over: Percent of county residents ages 25 and over highest education attained: high school diploma
+20. PctHS25_Over: Percent of county residents ages 25 and over highest education attained: high school diploma
 
-PctBachDeg25_Over: Percent of county residents ages 25 and over highest education attained: bachelor's degree
+21. PctBachDeg25_Over: Percent of county residents ages 25 and over highest education attained: bachelor's degree
 
-PctEmployed16_Over: Percent of county residents ages 16 and over employed
+22. PctEmployed16_Over: Percent of county residents ages 16 and over employed
 
-PctUnemployed16_Over: Percent of county residents ages 16 and over unemployed
+23. PctUnemployed16_Over: Percent of county residents ages 16 and over unemployed
 
-PctPrivateCoverage: Percent of county residents with private health coverage
+24. PctPrivateCoverage: Percent of county residents with private health coverage
 
-PctPrivateCoverageAlone: Percent of county residents with private health coverage alone (no public assistance)
+25. PctPrivateCoverageAlone: Percent of county residents with private health coverage alone (no public assistance)
 
-PctEmpPrivCoverage: Percent of county residents with employee-provided private health coverage
+26. PctEmpPrivCoverage: Percent of county residents with employee-provided private health coverage
 
-PctPublicCoverage: Percent of county residents with government-provided health coverage
+27. PctPublicCoverage: Percent of county residents with government-provided health coverage
 
-PctPubliceCoverageAlone: Percent of county residents with government-provided health coverage alone
+28. PctPubliceCoverageAlone: Percent of county residents with government-provided health coverage alone
 
-PctWhite: Percent of county residents who identify as White
+29. PctWhite: Percent of county residents who identify as White
 
-PctBlack: Percent of county residents who identify as Black
+30. PctBlack: Percent of county residents who identify as Black
 
-PctAsian: Percent of county residents who identify as Asian
+31. PctAsian: Percent of county residents who identify as Asian
 
-PctOtherRace: Percent of county residents who identify in a category which is not White, Black, or Asian
+32. PctOtherRace: Percent of county residents who identify in a category which is not White, Black, or Asian
 
-PctMarriedHouseholds: Percent of married households
+33. PctMarriedHouseholds: Percent of married households
 
-BirthRate: Number of live births relative to number of women in county
+34. BirthRate: Number of live births relative to number of women in county
